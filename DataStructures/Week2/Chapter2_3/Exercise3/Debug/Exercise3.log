@@ -1,0 +1,16 @@
+﻿  pointType.cpp
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C3646: 'print': unknown override specifier
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C2059: syntax error: '('
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C2238: unexpected token(s) preceding ';'
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.cpp(51): error C2039: 'print': is not a member of 'pointType'
+  c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(6): note: see declaration of 'pointType'
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.cpp(52): error C2270: 'print': modifiers not allowed on nonmember functions
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.cpp(54): error C2065: 'xPoint': undeclared identifier
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.cpp(54): error C2065: 'yPoint': undeclared identifier
+  Ch2Ex3UnitTest.cpp
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C3646: 'print': unknown override specifier
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C2059: syntax error: '('
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(20): error C2238: unexpected token(s) preceding ';'
+c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\ch2ex3unittest.cpp(11): error C2039: 'print': is not a member of 'pointType'
+  c:\users\bbishop\schoolwork\datastructures\week2\chapter2_3\exercise3\pointtype.h(6): note: see declaration of 'pointType'
+  Generating Code...

@@ -1,0 +1,15 @@
+Brad Bishop
+Data Structures
+Week 2
+
+Chapter 2
+6 a)	 False
+  b i)	 Valid
+    ii)  Invalid - private variables are not valid outside of the class.  Values should be modified using functions (getters\setters).
+    iii) Invalid - Variables a and b are not accessable to xClass.  Those are private variables to yClass and only accessable inside of yClass.
+    iv)  Invalid - Variables a, b and z are not available outside of xClass and yClass.  Those are private variables and cannot be used outside of the class.
+
+14)	Binary operators will have 1 argument.
+
+26 a)  	12
+   b)	Sunny Day	
