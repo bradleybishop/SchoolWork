@@ -1,6 +1,16 @@
+/*
+Brad Bishop
+Chapter 2: Programming Exercise #3
+
+pointType.h
+
+pointType header file.
+*/
 #pragma once
 #include <iostream>
 #include <string>
+
+using namespace std;
 
 class pointType
 {
@@ -17,7 +27,7 @@ public:
 
 	void setCoordinates(int x, int y);
 	
-	//string print() const;
+	string print() const;
 
 
 private:
