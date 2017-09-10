@@ -17,7 +17,7 @@ public:
 
 	void setCoordinates(int x, int y);
 	
-	string print() const;
+	//string print() const;
 
 
 private:

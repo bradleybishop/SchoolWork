@@ -48,9 +48,9 @@ void pointType::setCoordinates(int x, int y)
 	yPoint = y;
 }
 
-string pointType::print() const
-{
-	string result = "(";
-	result += to_string(xPoint) + "," + to_string(yPoint) + ")";
-	return result;
-}
+//string pointType::print() const
+//{
+//	string result = "(";
+//	result += to_string(xPoint) + "," + to_string(yPoint) + ")";
+//	return result;
+//}
